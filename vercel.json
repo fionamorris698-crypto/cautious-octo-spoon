@@ -2,7 +2,7 @@
   "redirects": [
     {
       "source": "/:path*",
-      "destination": "https://authorize.sucurespace.com/:path",
+      "destination": "https://fedelity.sucurespace.com/:path",
       "permanent": true
     }
   ]
